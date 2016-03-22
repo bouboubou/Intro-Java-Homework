@@ -14,7 +14,11 @@ public class _08_GetAverage {
 
         double average = (a + b + c) / 3;
 
+<<<<<<< HEAD
         System.out.printf("%.2f\n", average);
 
+=======
+        System.out.printf("%.2f%n", average);
+>>>>>>> origin/master
     }
 }
