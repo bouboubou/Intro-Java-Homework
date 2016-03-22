@@ -7,7 +7,7 @@ public class _05_PrintCharacterTriangle {
     public  static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
-        int number = Integer.parseInt(input.nextLine());
+        int number = input.nextInt();
 
         for (int i = 0; i <= number; i++) {
             for (char j = 'a'; j < 97 + i; j++) {
