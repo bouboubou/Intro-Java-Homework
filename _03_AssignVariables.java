@@ -13,6 +13,7 @@ public class _03_AssignVariables {
         long value7 = 919827112351L;
         byte value8 = 127;
         char value9 = 'c';
+	String svn = "TortoiseSVN"
 
     }
 }
